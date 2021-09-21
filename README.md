@@ -1,2 +1,2 @@
 # Israel-Crime-Analysis-Clustering-and-Prediction
-Analyses, prediction and conclusions for crimes in Israel 
+Analyses and prediction for crimes in Israel using machine learning algorithms such as Random forest, AdaBoost and K-mean.
