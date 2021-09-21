@@ -1,5 +1,6 @@
 # Israel-Crime-Analysis-Clustering-and-Prediction
-Analyses and prediction of crimes in Israel using machine learning algorithms 
+Analyses and prediction of crimes in Israel using machine learning algorithms. 
+
 Data was taken from the Israel Police for 2019 and from The government demographic database.
 
 ### Steps:
